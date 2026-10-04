@@ -1,0 +1,14 @@
+.elem {
+    width: 100%;
+    aspect-ratio: 1;
+    border: 2px solid #333;
+    cursor: pointer;
+}
+
+.elem.ki {
+    background-color: black;
+}
+
+.elem.be {
+    background-color: yellow;
+}

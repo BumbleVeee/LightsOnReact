@@ -1,0 +1,6 @@
+.jatekter {
+    display: grid;
+    gap: 5px;
+    width: min(90vw, 500px);
+    margin: 0 auto;
+}
